@@ -7,12 +7,6 @@
 </div>
 
 <br>
-
-<p align="center">
-  <img src="https://via.placeholder.com/880x520/0d1117/58a6ff?text=Event+Invitation+Preview" alt="Event Invitation Preview" width="780"/>
-  <!-- Recommended: replace with your actual screenshot -->
-</p>
-
 <br>
 
 ## ✨ Features
