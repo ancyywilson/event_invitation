@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎟 Event Invitation 
+# 🎟 Event Invitation Web 
 
 ### A clean, modern & responsive HTML + CSS invitation card with RSVP form
 
